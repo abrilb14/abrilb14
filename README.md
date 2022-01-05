@@ -30,11 +30,19 @@ This is a 100% remote, full-time, long-term position.
 
 -Vue.js, Angular,js, Node.js, Backbone, JQuery (7 years)
 
-**Additional qualifications: **
+**Additional qualifications:** 
+
+-Portuguese (required)
+
+-Spanish (required)
+
+-English (nice to have)
+
 -Knowledge of Docker, Kubernetes and AWS is a plus
+
 -Databases Postgres (preferably)
 
-**What is in it for you:**
+## What is in it for you:
 -Be part of a highly experienced team where responsibility and authority is shared equally amongst colleagues and help create our company culture
 -A culture in which we don’t criticize failure but ensure we learn from our mistakes
 -An Agile environment where your ideas are welcome
@@ -43,17 +51,13 @@ This is a 100% remote, full-time, long-term position.
 -Ongoing Training & Mentoring
 -The possibility to travel (when we are allowed)
 
-**Hiring model and $**
+## Hiring model and $
 -Full time in local currency 
 -Law benefits
 -Stock options
 
-**Languages **
--Portuguese (required)
--Spanish (required)
--English (nice to have)
 
-**How to apply**
+##  How to apply
 Por favor envie um email para  abril@getpassport.co com seu CV anexado or Linkedin - enviar no assunto: Vaga NodeJS
 
 ## Tempo médio de feedbacks
